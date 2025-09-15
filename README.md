@@ -92,7 +92,7 @@
       🔗 <strong>Pairing Server 01</strong>
     </p>
     <a href="https://khanmd-pair.onrender.com/" target="_blank">
-      <img src="https://img.shields.io/badge/PAIR_CODE_1-F0FF35?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
+      <img src="https://img.shields.io/badge/PAIR_CODE_1-F0AF35?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
     </a>
   </div>
   
@@ -119,6 +119,12 @@
     </tr>
   </table>
 </div>
+
+## 🚀 Deploy Free on VPS
+
+> Star this repository to support the project. Fork the repository to your own GitHub account Copy your GitHub > username and paste it on the VPS site. Get your Session ID from the Pair site and add it to the VPS setup. Click on Deploy and wait about 5 minutes for the bot to start automatically.
+
+> ⚠️ Note: After deployment, use the .restart command to improve the bot's performance.
 
 <table align="center">
   <tr>
